@@ -30,7 +30,7 @@ I combine finance expertise with **data analytics and automation tools** to buil
 
 ## 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/darshanmansuriya/)  
-- 📧 Email: darshan.mansuriya@example.com  
+- 📧 Email: darshan.mansuriya0105@gmail.com  
 - 🌍 Based in Dubai, UAE | Open to global finance & data opportunities  
 
 ---
