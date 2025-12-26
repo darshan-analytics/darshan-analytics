@@ -21,6 +21,7 @@ I combine finance expertise with **data analytics and automation tools** to buil
 ---
 
 ## 🔹 Featured Projects (To Pin Soon)
+- 📌 **UAE Real Estate Pulse - Live Dashboard** - https://uae-real-estate-dashboard-by-darshan.netlify.app 
 - 📌 **Financial Dashboard – Revenue vs Expenses**  
 - 📌 **Audit & Compliance Checklist Automation**  
 - 📌 **SQL + Excel: Data Cleaning & Business Insights**  
